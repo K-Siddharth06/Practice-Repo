@@ -5,7 +5,6 @@ class Node:
         self.prev = None
 
 
-# SLL
 class SLL:
     def __init__(self):
         self.head = None
@@ -126,7 +125,6 @@ class SLL:
         print("None")
 
 
-# DLL
 class DLL:
     def __init__(self):
         self.head = None
@@ -259,7 +257,6 @@ class DLL:
         print("None")
 
 
-# CLL
 class CLL:
     def __init__(self):
         self.front = None
